@@ -1,0 +1,96 @@
+@charset "UTF-8";
+
+body {
+    background-image: url('images/background.png');
+    background-size: cover; /* 'cover' para a imagem de fundo se ajustar à tela */
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#lin {
+    position: absolute;
+    left: 45.5%; /* Use unidades relativas para a posição */
+    top: 35%; /* Use unidades relativas para a posição */
+    max-width: 2%; /* Ajusta a largura máxima da imagem */
+    height: auto; /* Permite que a altura seja ajustada automaticamente */
+}
+#git {
+    position: absolute;
+    left: 48%;
+    top: 34.8%;
+    max-width: 2%;
+    height: auto;
+}
+h2 {
+    font-size: 35px; 
+    text-align: center;
+    margin-top: 18%;
+    margin-left: -19.2%;
+}
+#soft {
+    font-size: 140px; 
+    text-align: center; /* Centralize o texto */
+    margin-top: -3%;
+}
+#dev {
+    font-size: 140px;
+    text-align: center;
+    margin-top: -7%;
+    margin-left: 20%;
+}
+p {
+    font-size: 35px; 
+    text-align: center;
+    margin-top: -5%;
+    margin-left: 20.5%;
+}
+#proj {
+    font-size: 50px; 
+    text-align: center;
+    margin-top: 30%;
+    margin-left: 13%;
+}
+#one {
+    font-size: 25px; 
+    text-align: left;
+    margin-left: 50%;
+}
+img#pag2 {
+    position: absolute;
+    left: 5%;
+    top: 100%; 
+    max-width: 80%; 
+    height: auto; 
+}
+
+#cap {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 25px;
+    margin-left: 50%;
+    border-radius: 30px;
+    padding: 10px 30px;
+    box-shadow: 0px 0px 10px rgba(0,0,0,.5);
+    background: #FF66C4;
+    border: 3px solid #000
+
+}
+#sales {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 25px;
+    margin-left: 60%;
+    border-radius: 30px;
+    padding: 10px 30px;
+    box-shadow: 0px 0px 10px rgba(0,0,0,.5);
+    background: #FFDE59;
+    border: 3px solid #000
+
+}
+#check {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 25px;
+    margin-left: 69%;
+    border-radius: 30px;
+    padding: 10px 30px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, .5);
+    background: #00C4CC;
+    border: 3px solid #000;
+    color: black; /* Adicione a cor do texto para torná-lo visível */
+}

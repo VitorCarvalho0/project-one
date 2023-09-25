@@ -1,0 +1,56 @@
+
+body {
+    background-image: url(backgroud-cadastro.png);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#titulo1{
+    font-size:30px;
+    color: white;
+    margin-left: 25%;
+    margin-top: 15%;
+}
+#titulo2{
+    font-size: 50px;
+    color: #E10FA8;
+    margin-left: 25%;
+    margin-top: -1%;
+}
+#titulo3{
+    font-size: 30px;
+    color: white;
+    margin-left: 25%;
+    margin-top: -1%;
+}
+#subtitulo{
+    font-size: 16px;
+    color: white;
+    margin-left: 26.5%;
+    margin-top: -1%;
+}
+fieldset {
+    border: 0;
+    margin-left: 25%;
+}
+#nome {
+    font-size: 16px;
+    border-radius: 30px;
+    padding: 10px 200px;
+    margin-top: 0.5%;
+    padding-left: 1%;
+}
+#email {
+    font-size: 16px;
+    border-radius: 30px;
+    padding: 10px 200px;
+    margin-top: 0.5%;
+    padding-left: 1%;
+}
+#botao {
+    font-size: 21px;
+    border-radius: 30px;
+    color: white;
+    background-color: #E10FA8; 
+    border: #E10FA8;
+    margin-top: 0.6%;
+    padding: 10px 105px;
+}
